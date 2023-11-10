@@ -1,4 +1,4 @@
-# CODSOFT
+# CODSOFT_task2
 
 <h1>A beginner's project</h1><br>
 Creating a Landing page for a Hoodie website.<br>
